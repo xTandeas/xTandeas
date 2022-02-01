@@ -1,6 +1,6 @@
-Student & 14 
-Languages: Html&Css, Lua, Python, Javascript.
-Goal: art site via shutterstock.
+Student & 14 <br>
+Languages: Html&Css, Lua, Python, Javascript.<br>
+Goal: art site via shutterstock.<br>
 Country: Turkey
 
 <!---
