@@ -1,5 +1,7 @@
-Professional Roblox Lua Programmer.
-Medium python programmer.
+Student & 14 
+Languages: Html&Css, Lua, Python, Javascript.
+Goal: art site via shutterstock.
+Country: Turkey
 
 <!---
 xTandeas/xTandeas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
