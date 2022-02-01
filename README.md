@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/avatars/822494990105313341/fd734114f9974140aaedac37044ad063.gif?size=1024">
+<img size="32" src="https://cdn.discordapp.com/avatars/822494990105313341/fd734114f9974140aaedac37044ad063.gif?size=1024">
 Student & 14 <br>
 Languages: Html&Css, Lua, Python, Javascript.<br>
 Goal: art site via shutterstock.<br>
